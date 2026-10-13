@@ -1,0 +1,19 @@
+*
+
+# Repository files
+!.gitignore
+!README.md
+!LICENSE
+
+# Generic configuration
+!config/
+!config/common.env
+!config/general.env
+
+# Generic scripts
+!scripts/
+!scripts/import-lessons.zsh
+
+# Generic prompts
+!prompts/
+!prompts/general.txt
